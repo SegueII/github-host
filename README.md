@@ -1,9 +1,9 @@
 # github-host
 Available IP addresses for GitHub
 
-## Add hosts (macOS)
+## Add hosts
 
-Edit `hosts`
+Edit `hosts` (macOS)
 
 ```bash
 sudo vim /etc/hosts
